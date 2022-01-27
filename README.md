@@ -12,7 +12,7 @@ Prerequisites
 -------------
 
     - you MUST have atom-ide-ui package intalled https://atom.io/packages/atom-ide-ui
-    - you MUST have a VALID vls bin installed in your path https://github.com/vlang/vls
+    - you MUST have a VALID vls bin installed in your path or you can change it in the settings https://github.com/vlang/vls 
 
 Features
 ---------
